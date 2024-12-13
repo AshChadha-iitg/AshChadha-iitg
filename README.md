@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: **He/Him** 
 
-- ⚡ Fun fact: **We write code and create AI to write code for us.**
+- ⚡ Fun fact: **We develop code and create AI tools that generate code for us.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
