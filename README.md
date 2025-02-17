@@ -23,7 +23,7 @@ I work with **local AI models** and **APIs** to build AI applications.
 
 ## **Connect with me:**  
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashish-chadha-288380322/" target="blank">
+  <a href="https://www.linkedin.com/in/ashish-chadha-%F0%9F%87%AE%F0%9F%87%B3-288380322/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
