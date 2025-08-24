@@ -12,7 +12,7 @@
 
 ---
 
-## **💻 AI Model Deployment & APIs**  
+## **💻 AI Model Deployment, Fine-tuning & APIs**  
 I work with **local AI models** and **APIs** to build AI applications.  
 
 | Ollama | LM Studio | Hugging Face | OpenAI API | Gemini API |  
