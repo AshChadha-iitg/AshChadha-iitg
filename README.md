@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Chadha</h1>
-<h3 align="center">A passionate first-year student at IIT Guwahati</h3>
+<h3 align="center">A passionate second-year student at IIT Guwahati</h3>
 
 <p align="center">
   <img src="iitg.jpg" alt="IIT Guwahati Logo" width="200" height="200" />
