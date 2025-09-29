@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Chadha</h1>
 <h3 align="center">A passionate second-year student at IIT Guwahati</h3>
+<h3 align="center">Building AI in Bharat</h3>
 
 <p align="center">
   <img src="iitg.jpg" alt="IIT Guwahati Logo" width="200" height="200" />
 </p>
 
-- 👀 I’m interested in **AI/ML and Data Science**  
+- 👀 I’m interested in **AI/ML**  
 - 🌱 I’m currently learning **Data Science and Machine Learning**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **We develop code and create AI tools that generate code for us.**  
@@ -25,7 +26,7 @@ I work with **local AI models** and **APIs** to build AI applications.
 I’ve started experimenting with **datasets and models** on Kaggle and Hugging Face:  
 
 - Created a few **datasets on Kaggle**
-- **Fine-tuned models** on Kaggle and uploaded them to **Hugging Face**  
+- **Fine-tuned models** on Kaggle notebooks and uploaded them to **Hugging Face**  
 - Shared a **simple dataset** on Hugging Face for public use  
 
 **Links:**  
