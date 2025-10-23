@@ -18,7 +18,7 @@ I work with local AI models, APIs and fine-tuning to build AI applications.
 
 | Ollama | LM Studio | Hugging Face | Colab | Kaggle | LangChain | LangGraph| 
 |--------|----------|--------------|------------|--------|--------|--------|
-| <a href="https://ollama.com/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:500/1*8xvg7T-wPBrq_9O-Bxnv3w.png" width="100"></a> | <a href="https://lmstudio.ai/" target="_blank"><img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-192x192.3a60873f.png&w=384&q=75" width="100"></a> | <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100"></a> | <a href="https://colab.research.google.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUqaJ9POaXHgpH3H-JJ0OKeQQYIeeMCY6cQ&s" width="100"></a> | <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-opengraph.png" width="100"></a> | <a href="https://www.langchain.com/" target="_blank"><img src="https://python.langchain.com/img/brand/wordmark.png" width="100"></a> | <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" width="100"></a> |
+| <a href="https://ollama.com/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:500/1*8xvg7T-wPBrq_9O-Bxnv3w.png" width="100"></a> | <a href="https://lmstudio.ai/" target="_blank"><img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-192x192.3a60873f.png&w=384&q=75" width="100"></a> | <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100"></a> | <a href="https://colab.research.google.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUqaJ9POaXHgpH3H-JJ0OKeQQYIeeMCY6cQ&s" width="100"></a> | <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-opengraph.png" width="100"></a> | <a href="https://www.langchain.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-QRqqtRi8EEyMCDcBawEio86I7MpmwMBTw&s" width="100"></a> | <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1GiA0GtNhtUsXEcSwiQOtKDwD4Sokn9n2A&s" width="100"></a> |
 
 ---
 
@@ -106,9 +106,9 @@ Links:
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
   </a>
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" width="100">
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" width="40">
   </a> 
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://python.langchain.com/img/brand/wordmark.png" width="100">
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-QRqqtRi8EEyMCDcBawEio86I7MpmwMBTw&s" width="40">
   </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" width="100"></a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1GiA0GtNhtUsXEcSwiQOtKDwD4Sokn9n2A&s" width="40"></a>
   </p>
