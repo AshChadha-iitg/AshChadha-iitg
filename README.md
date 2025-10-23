@@ -106,7 +106,7 @@ Links:
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
   </a>
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://image.pitchbook.com/6u6feRksErPUB1XOmGmpiDOJ4UY1595425192373_200x200" width="100">
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-opengraph.png" alt="kaggle" width="100">
   </a> 
   <a href="https://www.langchain.com/" target="_blank"><img src="https://python.langchain.com/img/brand/wordmark.png" width="100">
   </a>
