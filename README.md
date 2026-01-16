@@ -114,4 +114,7 @@ Links:
   <a href="https://www.langchain.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-QRqqtRi8EEyMCDcBawEio86I7MpmwMBTw&s" width="40">
   </a>
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1GiA0GtNhtUsXEcSwiQOtKDwD4Sokn9n2A&s" width="40"></a>
+  <a href="https://aikosh.indiaai.gov.in/" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/media/GwdEefaa0AElWT9.png" alt="aikosh" width="40" height="40"/> 
+  </a>
   </p>
