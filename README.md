@@ -106,6 +106,9 @@ Links:
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
   </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofQZ8fETTADIBI7fSkqZvalbJS72LVrnDzQ&s" alt="aws" width="40" height="40"/> 
+  </a>
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" width="40">
   </a> 
   <a href="https://www.langchain.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-QRqqtRi8EEyMCDcBawEio86I7MpmwMBTw&s" width="40">
