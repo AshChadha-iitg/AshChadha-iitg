@@ -35,6 +35,21 @@ Links:
 
 ---
 
+## 🏆 Hacktoberfest 2025  
+
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhexm0o800z4l6044mtl4jnc" target="_blank">
+    <img src="supercontributor.png" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  🥇 <b>Super Contributor — Hacktoberfest 2025</b><br>
+  🔗 <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhexm0o800z4l6044mtl4jnc">Verify Badge</a>
+</p>
+
+---
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ashish-chadha-%F0%9F%87%AE%F0%9F%87%B3-288380322/" target="blank">
